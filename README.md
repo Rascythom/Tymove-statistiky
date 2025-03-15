@@ -1,0 +1,2 @@
+# Tymove-statistiky
+Srovnání týmů
